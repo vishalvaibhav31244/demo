@@ -1,2 +1,3 @@
 this is first task for skilling 1 for pe3
 deployment of file in the github using gitbash and linux
+https://docs.github.com/en/github/authenticating-to-github/error-permission-denied-publickey#should-the-sudo-command-be-used-with-git
